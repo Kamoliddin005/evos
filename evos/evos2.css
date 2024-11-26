@@ -1,0 +1,229 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+}
+
+.tepa {
+
+    display: flex;
+    width: 1652px;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+
+.tepac {
+    width: 1312px;
+    height: 42px;
+    display: flex;
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    margin-left: 260px;
+}
+
+.tepac img {
+    width: 180px;
+    height: 60px;
+}
+
+.s {
+    display: flex;
+    gap: 10px;
+    margin-top: 19px;
+
+}
+
+.sa a {
+    width: 75px;
+    height: 42px;
+    text-decoration: none;
+    color: green;
+}
+
+.sq a {
+    width: 84px;
+    height: 42px;
+    text-decoration: none;
+    color: black;
+}
+
+.sw a {
+    width: 100px;
+    height: 42px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.se a {
+    width: 77px;
+    height: 42px;
+    text-decoration: none;
+    color: black;
+}
+
+.sr a {
+    width: 57px;
+    height: 42px;
+    text-decoration: none;
+    color: black;
+}
+
+.st a {
+    width: 87px;
+    height: 42px;
+    text-decoration: none;
+    color: black;
+}
+
+.wt {
+    width: 488px;
+    height: 50px;
+    /* border: 1px solid black; */
+    display: flex;
+    gap: 10px;
+    margin-left: 245px;
+}
+
+.but button {
+    width: 140px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.sum7 button {
+    width: 110px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.sir select {
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.per button {
+    width: 30px;
+    height: 35px;
+    margin-top: 10px;
+
+}
+.asos{
+    width: 1903px;
+    height: 697px;
+    display: flex;
+    background-color: rgb(193, 207, 207);
+}
+.asos2{
+    width: 1312px;
+    height: 349px;
+    display: flex;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+.gamburger img{
+    width: 400px;
+    height: 320px;
+    margin-top: 0px;
+}
+.matinlar{
+    width: 500px;
+    height: 300px;
+    margin-top:40px;
+    margin-left: 200px;
+}
+.matinlar h1{
+    font-size: 50px;
+}
+.matinlar p{
+    font-size: 20px;
+}
+.matinlar button{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    width: 400px;
+    margin-top: 50px;
+    height: 50px;
+    background-color: #077855;
+    color: white;
+    border-radius: 5px;
+    border: solid 1px #077855;
+}
+.matinlar2 button{
+width: 150px;
+height: 50px;
+font-size: 20px;
+background-color: #077855;
+color: white;
+border: solid 1px #077855;
+margin-top: 500px;
+margin-left: -480px;
+border-radius: 5px;
+}
+.tag-asos {
+    background-color: #EDEDF8;
+    width: 1900px;
+    height: 300px;
+    border: solid 1px;
+    /* display: flex; */
+    flex-wrap: wrap;
+}
+
+.ad45 {
+    display: flex;
+    margin-top: 70px;
+    gap: 20px;
+    margin-left: 400px;
+}
+
+.ad45 a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.ad46 {
+    margin-top: -40px;
+    margin-left: 1200px;
+    gap: 20px;
+}
+
+.ad46 img {
+    margin-left: 20px;
+    width: 189px;
+    height: 59px;
+}
+
+.ad47 p {
+    margin-top: 20px;
+    margin-left: 250px;
+    font-size: 20px;
+}
+
+.ad44 a {
+    text-decoration: none;
+    font-size: 11px;
+}
+.ad44 p{
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.ta17{
+display: flex;
+margin-left: 1530px;
+margin-top: -45px;
+}
+.asss img{
+width: 25px;
+height: 25px;
+border-radius: 100%;
+}
